@@ -33,7 +33,7 @@ A simple Candy Crush-like puzzle game implemented in Python with Pygame. Feature
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/candycrush.git
+git clone https://github.com/laiwah-chan/candycrush.git
 cd candycrush
 ```
 
