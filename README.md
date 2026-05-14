@@ -82,3 +82,10 @@ This project is open source and available under the MIT License.
 ## Credits
 
 Created as a fun puzzle game implementation in Python.
+
+## Future Improvements
+
+- Add sound effects
+- Add levels or difficulty
+- Add a start screen
+- Track high scores
