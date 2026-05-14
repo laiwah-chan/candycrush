@@ -1,3 +1,7 @@
+## Screenshot
+
+![Candy Crush game screenshot](screenshot.png)
+
 # Candy Crush
 
 A simple Candy Crush-like puzzle game implemented in Python with Pygame. Features smooth animations for swapping and disappearing tiles, cascading matches, and score tracking.
